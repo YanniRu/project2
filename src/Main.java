@@ -8,8 +8,7 @@ public class Main {
         int bonus;
         if (upBalance > 1000) {
             bonus = upBalance / 100;
-        }
-        else {
+        } else {
             bonus = 0;
         }
 
